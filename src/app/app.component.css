@@ -1,0 +1,17 @@
+p {
+  font-family: Lato;
+}
+
+.bg-bluish {
+  background-color: #21cac7 !important;
+}
+
+.table-header {
+  background-color: #51cde6;
+  color: #ffff;
+  font-size: 15px;
+}
+
+.cursor-p {
+  cursor: pointer;
+}
